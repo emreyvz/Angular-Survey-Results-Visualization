@@ -1,0 +1,28 @@
+<br>
+<div class="row">
+
+  <div class="col col-lg-3"></div>
+
+  <div class="col col-lg-6">
+   <h1 style="text-align: center">{{surveyTitle}}</h1>
+   <br><br>
+
+   <div *ngFor="let question of allQuestions">
+      <h5 class="card-header">{{question.question}}</h5>
+      <div class="card-body">
+        <br>
+        <div>
+          <canvas id="{{question.questionId}}"></canvas>
+        </div>
+      </div>
+      <br><br>
+  </div>
+
+  </div>
+
+
+
+  <div class="col col-lg-3"></div>
+
+</div>
+<br>
