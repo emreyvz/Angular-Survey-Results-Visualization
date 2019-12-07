@@ -1,3 +1,3 @@
-# Istatistik
+# Statistics
 
-Survey istatistiklerinin grafikleştirilmesini sağlayan basit bir uygulama.
+An application that provides visualization survey statistics
