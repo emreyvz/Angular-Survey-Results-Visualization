@@ -1,3 +1,3 @@
 # Statistics
 
-An application that provides visualization survey statistics
+An application that provides visualization of survey statistics
